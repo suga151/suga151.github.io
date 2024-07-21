@@ -3327,3 +3327,6 @@ input, select, textarea {
 			}
 
 		}
+		#sizhai{
+			text-decoration: line-through;
+		}
