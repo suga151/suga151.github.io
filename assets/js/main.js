@@ -183,3 +183,7 @@
 			});
 
 })(jQuery);
+
+function sub(){
+	alert("静态网站无法提交qwq")
+}
